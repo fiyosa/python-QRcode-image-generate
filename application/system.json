@@ -1,0 +1,14 @@
+{
+  "sn"      : "ISN",
+  "digit"   : "7",
+  "loop"    : "1",
+  "start"   : ",",
+  "stop"    : "#",
+  "pic_text": "228,574",
+
+
+  "port"    : "COM3",
+  "computer": "1",
+  "test"    : "1",
+  "test_sn" : ""
+}
